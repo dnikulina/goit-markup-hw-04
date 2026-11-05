@@ -35,7 +35,3 @@ This stage of the WebStudio project adds visual effects and interactive states t
 - pseudo-elements and decorative effects;
 - absolute positioning;
 - refining an existing interface without changing its core structure.
-
-## Live Demo
-
-[Open GitHub Pages](https://dashakim2209.github.io/goit-markup-hw-04/)
